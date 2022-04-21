@@ -6,12 +6,17 @@ Links and Resources
 Setup\
 .env requirements : N/A\
 
+### Collaborators
+Eden Brekke
+
+
+
 How to initialize/run your application (where applicable)\
 e.g. python snakes_cafe.py\
 How to use your library (where applicable) N/A\
-Tests N/A\
-How do you run tests?\
-Any tests of note?\
+Tests test_madlib.py
+How do you run tests? pytest in terminal\
+Any tests of note? test were provided\
 Describe any tests that you did not complete, skipped, etc
 
 ### Description

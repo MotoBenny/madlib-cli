@@ -34,4 +34,3 @@ def merge(template, tupl):
     return template.format(*tupl)
 
 
-read_template('../assets/dark_and_stormy_night_template.txt')
